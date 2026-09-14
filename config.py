@@ -1,0 +1,5 @@
+ASSISTANT_NAME = "JARVIS"
+
+WAKE_WORD = "jarvis"
+
+LANGUAGE = "pt-PT"
